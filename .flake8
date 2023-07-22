@@ -1,0 +1,8 @@
+[flake8]
+select = Q
+
+max-line-length = 120
+
+inline-quotes = single
+multiline-quotes = single
+docstring-quotes = double
